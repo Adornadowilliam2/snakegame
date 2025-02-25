@@ -1,0 +1,26 @@
+{
+  "name": "snakegame",
+  "version": "1.0.0",
+  "description": "- just follow this code and goodluck hope it works",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adornadowilliam2/snakegame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adornadowilliam2/snakegame/issues"
+  },
+  "homepage": "https://github.com/Adornadowilliam2/snakegame#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.8",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.8"
+  }
+}
